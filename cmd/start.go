@@ -7,11 +7,11 @@ import (
 	"fmt"
 	"log"
 
-	"drexel.edu/VoterApi/pkg/adding"
-	"drexel.edu/VoterApi/pkg/changing"
-	"drexel.edu/VoterApi/pkg/http/rest"
-	"drexel.edu/VoterApi/pkg/listing"
-	"drexel.edu/VoterApi/pkg/storage/json"
+	"drexel.edu/voter-api/pkg/adding"
+	"drexel.edu/voter-api/pkg/changing"
+	"drexel.edu/voter-api/pkg/http/rest"
+	"drexel.edu/voter-api/pkg/listing"
+	"drexel.edu/voter-api/pkg/storage/json"
 	"github.com/spf13/cobra"
 )
 
