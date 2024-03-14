@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2,
+    "name": "Lana Herzog",
+    "email": "Arne94@hotmail.com",
+    "history": [
+      2
+    ],
+    "created": "2024-02-16T12:03:10.268359-05:00",
+    "modified": "2024-02-16T12:03:10.268359-05:00"
+  },
+  {
+    "id": 3,
+    "name": "Brenda Ratke",
+    "email": "Graciela_Veum18@gmail.com",
+    "history": [
+      3,
+      5
+    ],
+    "created": "2024-02-16T12:03:12.006606-05:00",
+    "modified": "2024-02-16T12:03:12.006606-05:00"
+  },
+  {
+    "id": 1,
+    "name": "Alex Gislason",
+    "email": "Isabelle_Rath56@yahoo.com",
+    "history": [
+      1,
+      4
+    ],
+    "created": "2024-02-16T12:03:06.756275-05:00",
+    "modified": "2024-02-16T12:03:06.756275-05:00"
+  }
+]
