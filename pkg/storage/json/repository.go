@@ -7,10 +7,10 @@ import (
 	"os"
 	"time"
 
-	"drexel.edu/voter-api/pkg/adding"
-	"drexel.edu/voter-api/pkg/changing"
-	"drexel.edu/voter-api/pkg/listing"
-	"drexel.edu/voter-api/pkg/storage"
+	"drexel.edu/VoterApi/pkg/adding"
+	"drexel.edu/VoterApi/pkg/changing"
+	"drexel.edu/VoterApi/pkg/listing"
+	"drexel.edu/VoterApi/pkg/storage"
 )
 
 const (

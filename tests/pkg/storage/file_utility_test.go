@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"drexel.edu/voter-api/pkg/storage"
+	"drexel.edu/VoterApi/pkg/storage"
 	"github.com/stretchr/testify/assert"
 )
 

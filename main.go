@@ -1,6 +1,6 @@
 package main
 
-import "drexel.edu/voter-api/cmd"
+import "drexel.edu/VoterApi/cmd"
 
 func main() {
 	cmd.Execute()

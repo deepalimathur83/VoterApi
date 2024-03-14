@@ -1,7 +1,6 @@
 package storage
 
 import (
-	"fmt"
 	"os"
 	"path/filepath"
 )
@@ -26,7 +25,7 @@ func CheckIfFileOrFolderExistsAndNotEmpty(path string) (bool, error) {
 func CreateFile(path string) (*os.File, error) {
 
 	err := os.MkdirAll(filepath.Dir(path), 0755)
-	fmt.Println("test===", filepath.Dir(path), " end of path")
+	//fmt.Println("test===", filepath.Dir(path), " end of path")
 	if err != nil {
 		return nil, err
 	}

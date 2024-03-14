@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"drexel.edu/voter-api/pkg/adding"
-	"drexel.edu/voter-api/pkg/changing"
-	"drexel.edu/voter-api/pkg/storage/json"
+	"drexel.edu/VoterApi/pkg/adding"
+	"drexel.edu/VoterApi/pkg/changing"
+	"drexel.edu/VoterApi/pkg/storage/json"
 	"github.com/stretchr/testify/assert"
 )
 
